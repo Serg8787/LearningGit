@@ -12,8 +12,9 @@ class MainActivity : AppCompatActivity() {
         println("Hello World")
         println("Change 12")
         println("Cahnge next")
-        println("forst master")
-        println("Hello my friend")
-        println("Hello my friend")
+        println("Cahnge next")
+        println("Cahnge next")
+        println("Cahnge next")
+
     }
 }
