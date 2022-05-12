@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         println("Change 12")
         println("Cahnge next")
         println("forst master")
+        println("Hello my friend")
     }
 }
