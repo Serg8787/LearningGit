@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         println("Cahnge next")
         println("forst master")
         println("Hello my friend")
+        println("Hello my friend")
     }
 }
